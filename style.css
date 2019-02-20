@@ -1,0 +1,107 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  font-family: proxima-nova, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: left;
+  background-color: #f2f2f2;
+  height: 49px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 900;
+  -webkit-box-pack: justify;
+}
+
+.square.enix.pic {
+  height: 24px;
+  width: 250px;
+  box-sizing: inherit;
+  text-align: left;
+}
+
+.ff.image.one {
+  background-img: url("https://i.ytimg.com/vi/YKDm_9CGfpY/sddefault.jpg")
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.middle-background {
+  background-color: #292929;
+  padding-left: 28px;
+  padding-right: 28px;
+  color: white;
+
+}
+
+.adventure.title {
+  font-weight: 800;
+  box-sizing: inherit;
+  -webkit-font-smoothing: antialiased;
+  font-size: 48px;
+  line-height: 1;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.adventure.middle {
+  font-size: 24px;
+  line-height: 1.2;
+  margin-top: 0;
+  padding-bottom: 15px;
+  margin-bottom: 3px;
+  box-sizing: inherit;
+  -webkit-font-smoothing: antialiased;
+  color: #fff;
+}
+
+.btn_Button_2gFr0.xl_Button_PlI6L.bgRed_colors_3Gt6Y.white_colors_3_kVa {
+  background: #c80000!important;
+  color: #fff!important;
+  align-content: center;
+  cursor: pointer;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-flow: column;
+  font-weight: 400;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  min-width: 200px;
+  padding: 0 1em;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 0;
+  transition: transform .6s ease,-webkit-transform .6s ease;
+  font-size: 1.5rem;
+  height: 70px;
+  box-sizing: inherit;
+  -webkit-font-smoothing: antialiased;
+  text-decoration: none;
+  touch-action: manipulation;
+@media (min-width: 769px)
+}
+
+.available {
+  color: #4d4d4d;
+  font-size: 24px;
+  margin: 19px 0 21px;
+  padding-bottom: 17px;
+  border-bottom: 1px solid #4d4d4d;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  line-height: 1.18;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+
